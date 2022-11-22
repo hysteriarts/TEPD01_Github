@@ -1,0 +1,14 @@
+h1 { font-family: Arial, Helvetica, sans-serif;
+    font-style:normal;
+    font-size: 24px;
+}
+
+A{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: lightgray;
+}
+
+ul{
+list-style: none;
+}

@@ -1,0 +1,8 @@
+body {
+    width: 100vw; /* que ocupe el ancho de la pantalla */
+    height: 100vh; /* para que sea cuadrada (igual a width) */
+    background-image: url(https://images.hdqwalls.com/wallpapers/rock-balance-4k-qw.jpg) }
+h1 {font-family: Arial, Helvetica, sans-serif;}
+h1{text-align: center;}
+h1 {
+    color: blueviolet;}
